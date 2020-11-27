@@ -3,3 +3,5 @@ json
 pandas
 matplotlib
 ipywidgets
+voila
+numpy
